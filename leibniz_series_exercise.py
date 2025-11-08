@@ -1,4 +1,5 @@
 def approximate_pi(n_terms):
+   
     pi_estimate = 0.0
     sign = 1.0
     for n in range(n_terms):
